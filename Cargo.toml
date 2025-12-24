@@ -1,3 +1,4 @@
 [workspace]
 resolver = "3"
+members = ["00-hello-world", "01-getting-started"]
 
