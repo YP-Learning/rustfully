@@ -1,0 +1,31 @@
+# --- Rust / Cargo ---
+# The shared build directory (this is the big one!)
+/target/
+
+# If you prefer to manage dependencies per-project, keep these.
+# But for learning, it's often better to ignore them to keep the repo clean.
+**/*.rs.bk
+
+# --- IDEs / Editors ---
+# JetBrains (IntelliJ, RustRover)
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Vim / Emacs
+*~
+*.swp
+.DS_Store
+
+# --- Environment / Secrets ---
+# In case you start learning about Web or Databases later
+.env
+.env.local
+
