@@ -1,4 +1,4 @@
 [workspace]
 resolver = "3"
-members = ["00-hello-world", "01-getting-started"]
+members = ["00-hello-world", "01-getting-started", "02-guessing-game"]
 
