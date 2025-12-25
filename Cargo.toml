@@ -1,4 +1,4 @@
 [workspace]
 resolver = "3"
-members = ["00-hello-world", "01-getting-started", "02-guessing-game", "03-variables", "04-variable-shadowing", "05-datatypes", "06-integers", "07-float", "08-bool-char", "09-tuples"]
+members = ["00-hello-world", "01-getting-started", "02-guessing-game", "03-variables", "04-variable-shadowing", "05-datatypes", "06-integers", "07-float", "08-bool-char", "09-tuples", "10-arrays"]
 
